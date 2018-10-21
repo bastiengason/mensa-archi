@@ -1,13 +1,13 @@
 en:
   landing:
     navbar:
-      discover: "Discover"
-      how_it_works: "How it works"
-      pricing: "Pricing"
+      discover: "Découvrir"
+      how_it_works: "Service"
+      pricing: "Produits"
       about: "About"
-      contact_us: "Contact us"
+      contact_us: "Contactez nous"
     buttons:
-      primary_button: "Get Started"
+      primary_button: "Découvrez Vima"
 #     footer:
 #       get_started: "Get Started"
 #       why: "Discover"
